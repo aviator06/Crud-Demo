@@ -1,4 +1,4 @@
-ASP .Net Core MVC Application performing CRUD operations using MongoDB
+.Net Core Application performing CRUD operations using MongoDB
 
 Screenshots :
 
